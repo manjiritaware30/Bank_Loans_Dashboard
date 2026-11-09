@@ -110,4 +110,4 @@ Developed an interactive Bank Loan Analysis Dashboard to transform raw loan data
 
 👩‍💻 Author
 
-MANJORI TAWARE
+MANJIRI TAWARE
