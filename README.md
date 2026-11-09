@@ -96,13 +96,17 @@ Interactive Slicers and Filters
 
 Business Intelligence and Reporting
 
+
 📁 Project Files
-
-Bank_Loan_Dashboard.pbix – Power BI dashboard file.
-
-Summary.png – Summary dashboard screenshot.
-
-Overview.png – Overview dashboard screenshot.
+Bank-Loan-Analysis-Dashboard/
+│
+├── README.md
+│
+├── Bank_Loan_Dashboard.pbix
+│
+└── Images/
+    ├── Summary.png
+    └── Overview.png
 
 🚀 Project Outcome
 
