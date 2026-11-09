@@ -62,7 +62,7 @@ Bank_Loan_Dashboard.pbix – Power BI dashboard file.
 Summary.png – Summary dashboard screenshot.
 Overview.png – Overview dashboard screenshot.
 
-Project Outcome
+Project Outcome 
 Developed an interactive Bank Loan Analysis Dashboard to transform raw loan data into meaningful business insights. The project demonstrates how Excel and  Power BI can be used together to analyze loan performance, monitor key metrics, and support data-driven decision-making.
 
 Author
